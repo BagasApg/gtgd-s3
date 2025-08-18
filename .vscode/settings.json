@@ -1,0 +1,7 @@
+{
+    "dotnet.preferCSharpExtension": true,
+    "editor.defaultFormatter": "onecentlin.laravel-blade",
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp"
+    }
+}
